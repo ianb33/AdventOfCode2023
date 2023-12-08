@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode", "AdventOfCode\AdventOfCode.csproj", "{EFC47E64-5921-4245-BCAF-B82292173CC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode", "AdventOfCode\AdventOfCode.csproj", "{EFC47E64-5921-4245-BCAF-B82292173CC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01Trebuchet", "Day01Trebuchet\Day01Trebuchet.csproj", "{56D3BC5B-61F8-4E90-A15A-A2B2C2F0B514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01Trebuchet", "Day01Trebuchet\Day01Trebuchet.csproj", "{56D3BC5B-61F8-4E90-A15A-A2B2C2F0B514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02CubeConundrum", "Day02CubeConundrum\Day02CubeConundrum.csproj", "{684F42E9-C293-4C6D-A55A-2E55C151DA72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{56D3BC5B-61F8-4E90-A15A-A2B2C2F0B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D3BC5B-61F8-4E90-A15A-A2B2C2F0B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D3BC5B-61F8-4E90-A15A-A2B2C2F0B514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684F42E9-C293-4C6D-A55A-2E55C151DA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684F42E9-C293-4C6D-A55A-2E55C151DA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684F42E9-C293-4C6D-A55A-2E55C151DA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684F42E9-C293-4C6D-A55A-2E55C151DA72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
